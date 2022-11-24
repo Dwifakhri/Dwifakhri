@@ -14,8 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<p>Welcome to my page! </br> I'm Fakhri, Junior Frontend Engineer from <a href="https://www.flaticon.com/free-icons/indonesia" title="indonesia icons">Indonesia icons created by Creatype - Flaticon</a> <b>Indonesia</b> </p>
-<h3>Things I code with</h3>
+<p>Welcome to my page! </br> I'm Fakhri, Junior Frontend Engineer from <b>Indonesia</b>. I'm really corious in technology especially schema of coding. If you're interested, we have to discuss it!  </p>
+<h2>Things I code with</h2>
 <p>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
   <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
