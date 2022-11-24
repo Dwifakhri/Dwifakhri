@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<p>Welcome to my page! </br> I'm Fakhri, Junior Frontend Engineer from <b>Indonesia</b>. I'm really curious in technology especially schema of coding. If you're interested, we have to discuss it!  </p>
+<p>Welcome to my page! </br> I'm <b> Fakhri </b>, Junior Frontend Engineer from <b>Indonesia</b>. I'm really curious in technology especially schema of coding. If you're interested, we have to discuss it!  </p>
 <h2>Things I code with</h2>
 <p>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
