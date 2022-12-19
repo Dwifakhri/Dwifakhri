@@ -1,4 +1,4 @@
-
+![sdsds](https://promwad.com/sites/default/files/frontend_development_banner.jpg)
 <!--
 **Dwifakhri/Dwifakhri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 <h2>My Github's Stats</h2>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dwifakhri&show_icons=true&locale=en&layout=compact" alt="dwifakhri" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Dwifakhri&amp;show_icons=true" alt="GitHub Stats"></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=Dwifakhri&amp;show_icons=true" alt="GitHub Stats"></p>
 
 
 <h2>Where find to me </h2>
