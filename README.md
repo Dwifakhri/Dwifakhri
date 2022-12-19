@@ -1,4 +1,4 @@
-![MasterHead](https://idwebhost.com/blog/wp-content/webp-express/webp-images/doc-root/blog/wp-content/uploads/2018/12/Front-End-Developer-1024x512.jpg.webp)
+
 <!--
 **Dwifakhri/Dwifakhri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
